@@ -41,7 +41,8 @@ python3 linear_regression.py
 ---
 
 ## ⚙️ What the Program Does
-## The script performs the following steps:
+
+The script performs the following steps:
 
 - Loads the housing dataset
 - Selects feature (area) and target (price)
@@ -54,7 +55,8 @@ python3 linear_regression.py
 ---
 
 ## 📊 Output
-## The program displays:
+
+The program displays:
 
 - MAE (Mean Absolute Error)
 - MSE (Mean Squared Error)
